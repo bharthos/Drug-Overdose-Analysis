@@ -19,7 +19,6 @@ Drug-Overdose-Analysis/
 ├── scripts/
 │   └── Drug_Overdose_Analysis.R                # R script for data processing and visualization
 ├── outputs/
-│   ├── Drug_Overdose_Report.docx              # Detailed project report
 │   ├── Drug_Overdose_Trends_Visualization.pdf # PDF of all visualizations
 ├── visuals/
 │   ├── National_Overdose_Trend.png            # Line chart showing national trend
